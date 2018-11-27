@@ -4,4 +4,4 @@
 
 It's a site that I had create to integrate the Wild Code School
 
-> Hosted demo website: [Wild circus](https://codingk8.github.io/wildcircus/)
+> Hosted demo website: [Wild circus](https://vassili7115.github.io/Wild_circus_2018/)
